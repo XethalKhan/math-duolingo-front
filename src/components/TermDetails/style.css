@@ -1,0 +1,4 @@
+.link:link, .link:visited {
+    text-decoration: none;
+    color: black;
+}

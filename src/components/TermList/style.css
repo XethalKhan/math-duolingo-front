@@ -1,0 +1,8 @@
+.link:link, .link:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.text-fields{
+	padding: 10px;
+}

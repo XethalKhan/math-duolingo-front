@@ -1,0 +1,12 @@
+.link:link, .link:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.input-text{
+	padding: 5px;
+}
+
+.icon-button{
+	padding: 10px;
+}

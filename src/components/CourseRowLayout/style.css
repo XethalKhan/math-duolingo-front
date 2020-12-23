@@ -1,0 +1,8 @@
+.link:link, .link:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.chain-row{
+	margin-top: 25px;
+}

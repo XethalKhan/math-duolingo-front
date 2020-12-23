@@ -1,0 +1,14 @@
+.link:link, .link:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.chain-row{
+	margin-top: 25px;
+}
+
+.modal{
+	display: 'flex';
+    align-items: 'center';
+    justify-content: 'center';
+}
