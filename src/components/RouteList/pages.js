@@ -13,7 +13,7 @@ import TermDetails from "./../TermDetails";
 import TermEdit from "./../TermEdit";
 import TermCreate from "./../TermCreate";
 
-export {
+export default {
 	CourseList,
 	CourseDetails,
 	CourseEdit,

@@ -7,7 +7,7 @@ import Avatar from '@material-ui/core/Avatar';
 
 import { Link } from "react-router-dom";
 
-import * as ArrayUtils from "./../../util/array.js";
+import ArrayUtils from "./../../util/array.js";
 
 class CourseRowLayout extends React.Component{
 

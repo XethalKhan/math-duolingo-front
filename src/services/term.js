@@ -73,7 +73,7 @@ async function update(id, name, type, description, text, comment, reference){
 
 }
 
-module.exports = {
+export default {
 	getOne,
 	filter,
 	create,

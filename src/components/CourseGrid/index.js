@@ -6,7 +6,7 @@ import Grid from '@material-ui/core/Grid';
 
 import { Link } from "react-router-dom";
 
-import * as ArrayUtils from "./../../util/array.js";
+import ArrayUtils from "./../../util/array.js";
 
 class CourseGrid extends React.Component{
 

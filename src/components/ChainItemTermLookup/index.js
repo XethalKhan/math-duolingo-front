@@ -14,7 +14,7 @@ import CheckIcon from '@material-ui/icons/Check';
 
 import TermLookupTable from "./../TermLookupTable";
 
-import * as StatementServices from "./../../services/statement";
+import StatementServices from "./../../services/statement";
 
 
 class ChainItemTermLookup extends React.Component{

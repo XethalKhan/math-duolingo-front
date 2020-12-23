@@ -14,7 +14,7 @@ import IconButton from '@material-ui/core/IconButton';
 import SkipPreviousIcon from '@material-ui/icons/SkipPrevious';
 import SkipNextIcon from '@material-ui/icons/SkipNext';
 
-import * as TermServices from "./../../services/term";
+import TermServices from "./../../services/term";
 
 class TermLookupTable extends React.Component{
 

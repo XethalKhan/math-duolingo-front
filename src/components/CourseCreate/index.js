@@ -9,7 +9,7 @@ import TextField from '@material-ui/core/TextField';
 import AddIcon from '@material-ui/icons/Add';
 import SaveIcon from '@material-ui/icons/Save';
 
-import * as CourseServices from './../../services/course.js';
+import CourseServices from './../../services/course.js';
 
 import CourseRowEdit from "./../CourseRowEdit";
 import ModalChain from "./../ModalChain";

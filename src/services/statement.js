@@ -12,6 +12,6 @@ async function getAll(){
 
 }
 
-module.exports = {
+export default {
 	getAll
 };

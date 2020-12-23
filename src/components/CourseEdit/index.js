@@ -11,7 +11,7 @@ import SaveIcon from '@material-ui/icons/Save';
 
 import { withRouter } from "react-router";
 
-import * as CourseServices from './../../services/course.js';
+import CourseServices from './../../services/course.js';
 
 import CourseRowEdit from "./../CourseRowEdit";
 import ModalChain from "./../ModalChain";

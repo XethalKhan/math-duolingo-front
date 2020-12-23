@@ -9,7 +9,7 @@ import AddIcon from '@material-ui/icons/Add';
 
 import ChainItemEdit from "./../ChainItemEdit";
 
-import * as ArrayUtils from "./../../util/array.js";
+import ArrayUtils from "./../../util/array.js";
 
 class ChainEditListing extends React.Component{
 

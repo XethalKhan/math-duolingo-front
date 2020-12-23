@@ -14,7 +14,7 @@ import { withRouter } from "react-router";
 
 import ChainEditListing from "./../ChainEditListing";
 
-import * as ChainServices from "./../../services/chain.js";
+import ChainServices from "./../../services/chain.js";
 
 
 class ChainEdit extends React.Component{

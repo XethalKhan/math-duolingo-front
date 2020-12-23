@@ -13,7 +13,7 @@ import { Link } from "react-router-dom";
 
 import CourseRowLayout from "./../CourseRowLayout";
 
-import * as CourseServices from './../../services/course.js';
+import CourseServices from './../../services/course.js';
 
 class CourseDetails extends React.Component{
 

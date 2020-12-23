@@ -68,7 +68,7 @@ function switchElements(arr, a, b){
 	arr[b] = tmp;
 }
 
-export {
+export default {
 	createRows,
 	arraysEqual,
 	switchElements

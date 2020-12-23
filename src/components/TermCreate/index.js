@@ -17,8 +17,8 @@ import { withRouter } from "react-router";
 import MathTextArea from "./../MathTextArea";
 import LoadingBackdrop from "./../LoadingBackdrop";
 
-import * as TermServices from "./../../services/term";
-import * as StatementServices from "./../../services/statement";
+import TermServices from "./../../services/term";
+import StatementServices from "./../../services/statement";
 
 
 class TermCreate extends React.Component{

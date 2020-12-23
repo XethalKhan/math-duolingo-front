@@ -15,7 +15,7 @@ import AddIcon from '@material-ui/icons/Add';
 
 import { Link } from "react-router-dom";
 
-import * as ArrayUtils from "./../../util/array.js";
+import ArrayUtils from "./../../util/array.js";
 
 class CourseRowEdit extends React.Component{
 

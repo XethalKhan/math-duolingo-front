@@ -11,7 +11,7 @@ import TableRow from '@material-ui/core/TableRow';
 import TableFooter from '@material-ui/core/TableFooter';
 import IconButton from '@material-ui/core/IconButton';
 
-import * as ChainServices from "./../../services/chain";
+import ChainServices from "./../../services/chain";
 
 class ChainLookupTable extends React.Component{
 

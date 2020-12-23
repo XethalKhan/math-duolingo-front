@@ -55,7 +55,7 @@ async function update(id, name, description, grid, img){
 
 }
 
-module.exports = {
+export default {
 	getOne,
 	filter,
 	create,

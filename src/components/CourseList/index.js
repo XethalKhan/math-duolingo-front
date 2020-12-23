@@ -4,7 +4,7 @@ import './style.css';
 
 import CourseGrid from "./../CourseGrid";
 
-import * as CourseServices from "./../../services/course";
+import CourseServices from "./../../services/course";
 
 class CourseList extends React.Component{
 

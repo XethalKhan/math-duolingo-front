@@ -12,7 +12,7 @@ import { Link } from "react-router-dom";
 
 import MathContent from "./../MathContent";
 
-import * as TermServices from "./../../services/term";
+import TermServices from "./../../services/term";
 
 class TermDetails extends React.Component{
 

@@ -4,7 +4,7 @@ import './style.css';
 
 import {Switch, Route} from "react-router-dom";
 
-import * as Pages from "./pages.js";
+import Pages from "./pages.js";
 
 export default function RouteList(props){
 

@@ -63,7 +63,7 @@ async function update(id, name, description, chain){
 
 }
 
-module.exports = {
+export default {
 	getOne,
 	filter,
 	create,

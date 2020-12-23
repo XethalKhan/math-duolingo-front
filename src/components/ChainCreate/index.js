@@ -10,7 +10,7 @@ import SaveIcon from '@material-ui/icons/Save';
 
 import ChainEditListing from "./../ChainEditListing";
 
-import * as ChainServices from "./../../services/chain.js";
+import ChainServices from "./../../services/chain.js";
 
 
 class ChainCreate extends React.Component{

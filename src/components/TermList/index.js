@@ -18,7 +18,7 @@ import { Link } from "react-router-dom";
 
 import TermLookupTable from "./../TermLookupTable";
 
-import * as StatementServices from "./../../services/statement";
+import StatementServices from "./../../services/statement";
 
 
 class TermList extends React.Component{
